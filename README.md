@@ -1,4 +1,4 @@
-#Hello-World Java project
+ii#Hello-World Java project
 CI/CD project using simple hello-world Java Apllication
 
 Create a AWS account
@@ -12,7 +12,7 @@ t3a.medium
 -----------------------
 # installation of the jenkins
            https://techviewleo.com/install-jenkins-server-on-amazon-linux/
- * install the git,maven,open-jdk
+## * install the git,maven,open-jdk
  * open the jenkins using the specific IP and Port
  * download the suggested plugins or manually you can select the plugins
  
